@@ -1,0 +1,48 @@
+/* styles.css */
+
+/* Global styles */
+body {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  /* ShowList component styles */
+  .show-list {
+    padding: 20px;
+  }
+  
+  .show-list h1 {
+    margin-bottom: 20px;
+  }
+  
+  .show-list ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .show-list li {
+    margin-bottom: 10px;
+  }
+  
+  .show-list a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .show-list a:hover {
+    text-decoration: underline;
+  }
+  
+  /* ShowDetail component styles */
+  .show-detail {
+    padding: 20px;
+  }
+  
+  .show-detail h1 {
+    margin-bottom: 20px;
+  }
+  
+  .show-detail p {
+    font-size: 18px;
+    line-height: 1.5;
+  }
+  
